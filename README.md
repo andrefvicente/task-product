@@ -37,8 +37,8 @@ A TypeScript-based microservice for managing product metadata with a React admin
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd task
+git clone https://github.com/andrefvicente/task-product.git
+cd task-product
 ```
 
 2. Start the services using Docker Compose:
