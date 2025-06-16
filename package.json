@@ -1,0 +1,14 @@
+{
+    "name": "product-admin-dashboard",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+        "frontend",
+        "backend"
+    ],
+    "scripts": {
+        "dev": "docker-compose up",
+        "build": "docker-compose build",
+        "start": "docker-compose up -d"
+    }
+}
